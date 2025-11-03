@@ -133,7 +133,7 @@ Executed comprehensive SQL queries to answer key business questions:
 
 ## 📊 Power BI Dashboard
 
-![Dashboard](image/Screenshot%202025-10-31%20115405.png)
+![Dashboard](image/Screenshot.png)
 
 Developed an interactive dashboard featuring:
 - Revenue trends and customer demographics
