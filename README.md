@@ -54,7 +54,7 @@ customer-shopping-analysis/
 │   └── analysis_report.pdf
 │
 ├── image/
-│   └── Screenshot 2025-10-31 115405.png
+│   └── Screenshot.png
 │
 └── README.md
 ```
